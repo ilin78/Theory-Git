@@ -78,13 +78,13 @@ git revert [git log --oneline]
 Чтобы посмотреть интересующий коммит 
 
 ```
-git chekout [git log id]
+git checkout [git log --oneline]
 ```
 
 чтобы вернуться обратно
 
 ```
-git chekout master
+git checkout master
 ```
 
 #### log --oneline
