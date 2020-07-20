@@ -6,7 +6,7 @@
 
 2) [Основные GIT Команды](https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy)
 
-
+3) [Git уровень бог](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## Частые вопросы
 
