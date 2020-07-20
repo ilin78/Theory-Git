@@ -1,8 +1,8 @@
 # Theory-Git
 
 Рекомендуемые ресурсы для изучения
+![Пример](https://habr.com/ru/post/437000/)
 
-https://habr.com/ru/post/437000/
 
 https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
 
