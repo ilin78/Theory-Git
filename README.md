@@ -1,10 +1,9 @@
 # Theory-Git
 
 Рекомендуемые ресурсы для изучения
-![Пример](https://habr.com/ru/post/437000/)
+ [Как научить людей использовать Git](https://habr.com/ru/post/437000/)
 
-
-https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+[Основные GIT Команды](https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy)
 
 
 
