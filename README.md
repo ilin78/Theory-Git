@@ -185,3 +185,6 @@ git add !*.html
 ```
 git diff
 ```
+
+
+Author: Ilin Oleg
