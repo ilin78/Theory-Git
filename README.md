@@ -205,4 +205,7 @@ git branch -M main
 git push -u origin main
 ```
 
+2 аккаунта на одной машине
+https://techrocks.ru/2020/12/24/how-to-manage-several-github-accounts/
+
 Author: Ilin Oleg
