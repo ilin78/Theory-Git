@@ -2,9 +2,16 @@
 
 
 1)Добавляете свой репозиторий новый ремоут:
-```git remote add new-origin <URL пустого репозитория>````
+
+```cmd
+git remote add new-origin <URL пустого репозитория>
+```
+
 2) Пушим до какого-то коммита:
-```git push new-origin <ХЕШ_КОММИТА_ДО_15_ИЮЛЯ>:refs/heads/main```
+
+```cmd
+git push new-origin <ХЕШ_КОММИТА_ДО_15_ИЮЛЯ>:refs/heads/main
+```
 
 
 
